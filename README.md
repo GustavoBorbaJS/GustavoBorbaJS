@@ -62,28 +62,8 @@
 
 ---
 
-### 📫 Como me encontrar
-
-<div align="center">
-  <a href="[https://linkedin.com/in/gustavoborba](https://www.linkedin.com/in/gustavo-da-silva-borba-3219471bb/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gustavoborbaao@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
----
-
 ### 👀 Contador de Visitas
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GustavoBorbaJS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
