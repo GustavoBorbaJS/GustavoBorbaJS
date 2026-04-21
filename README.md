@@ -1,13 +1,3 @@
-### 👨‍💻 Sobre mim
-
-  nome: "Gustavo Borba",
-  foco: "Desenvolvimento JavaScript",
-  estudando: ["Node.js", "React", "TypeScript"],
-  objetivos: "Criar soluções inovadoras e escaláveis",
-  contato: "gustavoborbajs@gmail.com"
-
-
----
 
 ### 📊 Estatísticas do GitHub
 
@@ -75,15 +65,13 @@
 ### 📫 Como me encontrar
 
 <div align="center">
-  <a href="https://linkedin.com/in/gustavoborba" target="_blank">
+  <a href="[https://linkedin.com/in/gustavoborba](https://www.linkedin.com/in/gustavo-da-silva-borba-3219471bb/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gustavoborbajs@gmail.com" target="_blank">
+  <a href="mailto:gustavoborbaao@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://gustavoborba.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
+
 </div>
 
 ---
