@@ -1,18 +1,11 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=2D9CFF&center=true&vCenter=true&width=500&lines=Olá!+Sou+Gustavo+Borba;Desenvolvedor+JavaScript;Full+Stack+em+constru%C3%A7%C3%A3o;Apaixonado+por+Tecnologia" alt="Typing SVG" />
-</div>
-
----
-
 ### 👨‍💻 Sobre mim
 
-const gustavo = {
   nome: "Gustavo Borba",
   foco: "Desenvolvimento JavaScript",
   estudando: ["Node.js", "React", "TypeScript"],
   objetivos: "Criar soluções inovadoras e escaláveis",
   contato: "gustavoborbajs@gmail.com"
-}
+
 
 ---
 
