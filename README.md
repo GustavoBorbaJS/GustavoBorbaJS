@@ -48,13 +48,6 @@
 
 ---
 
-### 📈 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoBorbaJS&theme=radical" alt="GitHub Contributions" />
-</div>
-
----
 
 ### 👀 Contador de Visitas
 
