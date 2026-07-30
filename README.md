@@ -1,11 +1,3 @@
-### 🔥 Sequência de Contribuições
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GustavoBorbaJS&theme=radical&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
