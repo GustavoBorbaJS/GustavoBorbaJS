@@ -1,3 +1,36 @@
+<div align="center">
+
+<!-- Cabeçalho animado -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Borba+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%7C+.NET+%2B+Angular;Sistemas+ERP%2C+financeiros+e+fiscais" alt="typing banner" />
+
+<p>
+  <em>"to the talentless, obsession"</em>
+</p>
+
+<a href="https://portfolio.borbatech.space">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/gustavo-da-silva-borba-3219471bb/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/GustavoBorbaJS">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+- 🔭 Desenvolvedor **Full-Stack**, focado em sistemas **ERP**, **financeiros** e de **compliance fiscal**
+- 🧩 No dia a dia: **microsserviços**, **relatórios financeiros** e **suporte/diagnóstico** em instalações de clientes
+- 🌎 Baseado em **Natal/RN — Brasil**, trabalhando em bases de código em **português**
+- 🎓 Cursando pós-graduação em **Desenvolvimento Full-Stack**
+- 📊 Gosto de transformar regra de negócio complicada em código simples e manutenível
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
@@ -7,9 +40,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
 <br><br>
 
@@ -27,6 +59,12 @@
 
 <br><br>
 
+**Relatórios**
+<br>
+<img src="https://img.shields.io/badge/JasperReports-E8873A?style=for-the-badge&logoColor=white" />
+
+<br><br>
+
 **Ferramentas**
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -40,6 +78,20 @@
 
 ---
 
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GustavoBorbaJS&show_icons=true&count_private=true&hide_border=true&locale=pt-br&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBorbaJS&layout=compact&langs_count=8&hide_border=true&locale=pt-br&theme=tokyonight" alt="Top languages" />
+
+<br>
+
+<img height="165" src="https://streak-stats.demolab.com/?user=GustavoBorbaJS&hide_border=true&locale=pt_BR&theme=tokyonight" alt="GitHub streak" />
+
+</div>
+
+---
 
 ### 👀 Contador de Visitas
 
